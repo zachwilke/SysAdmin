@@ -1,2 +1,2 @@
 # SysAdmin
-Tools I use every dayfor system administration
+Tools I use every day for system administration
