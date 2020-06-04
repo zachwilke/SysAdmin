@@ -1,2 +1,2 @@
 # SysAdmin
-Handy scripts for automating daily SysAdmin tasks
+Tools I use every dayfor system administration
